@@ -25,5 +25,7 @@ $ git push dokku master
 
 ## see also
 
+- <https://docs.min.io/docs/minio-gateway-for-nas.html>
 - <https://docs.min.io/docs/setup-nginx-proxy-with-minio.html>
 - <https://github.com/dokku/dokku/blob/aa63e79aecafe226ce826497b12c5e74148d0e8a/plugins/nginx-vhosts/templates/nginx.conf.sigil>
+- <https://blog.n-z.jp/blog/2020-05-31-dokku-proxy-to-minio.html>
